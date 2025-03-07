@@ -6,7 +6,7 @@ AT nozzle brush for printers built with 2020 extrusions.![AT_Brush](https://gith
 | M5x10 BHCS | 2  |
 | M3x35 SHCS | 2  |
 | M3x8 SHCS | 2 (3 with wire brush)  |
-| M3 Heatset insters | 2 (3 with wire brush)  |
+| M3 Heatset inserts | 2 (3 with wire brush)  |
 | M3 Nylock nut  | 2  |
 | M3 Washer  | 2  |
 | Brush of choice * | 1  |
