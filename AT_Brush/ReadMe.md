@@ -11,5 +11,5 @@ AT nozzle brush for printers built with 2020 extrusions.![AT_Brush](https://gith
 | M3 Washer  | 2  |
 | Brush of choice * | 1  |
 
-*Currently supported: A1 style silicone brush, A1 mini style silicone brush, brass bristle brush (not recommended to be used with Z probes such as Beacon or Cartographer).
+*Currently supported: A1 style silicone brush, A1 mini style silicone brush, brass bristle brush (It is illadvised to be use a brass wire brush with Z probes such as Beacon or Cartographer).
 
