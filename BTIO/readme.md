@@ -3,7 +3,8 @@
 
 The BoxTurtle IO (BTIO) module simplifies the integration of your BoxTurtle multi-color system with your 3D printer by serving as a centralized hub for all essential connections. It offers a clean, dependable interface for linking the printer, connecting the toolhead buffer, and supporting daisy-chained configurations for multi-unit expansion. BTIO also enables external power delivery when operating over USB. This modular design supports scalable, intelligent filament handling while keeping wiring complexity to a minimum.
 ![BTIO_R](https://github.com/user-attachments/assets/f1d26f95-eb7c-4e87-b8d6-1b3ea9ceb362)
-![379883752-134796f6-8458-4a61-9967-1292963d7b4b](https://github.com/user-attachments/assets/e55421f1-9294-46fb-bf18-b1b3116f52e1)
+![BTIO](https://github.com/user-attachments/assets/559d5ccb-cb8c-48d5-b46f-b38d94671d4d)
+
 With the exception of USB lines, all ground connections on this board share a common ground. While only one ground is electrically necessary for the toolhead buffer, the “TN” port includes two ground pins to mirror the original connector layout. This design allows users to repin their toolhead buffer cable into a new single connector—without the need for soldering—when adapting it for use with the BTIO board.
 
 # Assembly 
